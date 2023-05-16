@@ -1,0 +1,7 @@
+I want you to write a [genre] novel.
+It should be written in the style of [author_style] 
+It should explore the following themes:
+
+[themes]
+
+Please write a summary of the book in clear and precise language. Include title, narrative style, setting and core themes.
